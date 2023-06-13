@@ -1,0 +1,23 @@
+{
+  "version": "1.1.2",
+  "notes": "version 1.1.2",
+  "pub_date": "2023-06-12T19:25:57Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVk1MZS9VYXNBcjgxdnZkUkZkR0QrZTZCajV0bytURG0yMFdQMi9zWm5VRWliWHJSMGQyS3B4bUZ3eXNWSXlNUWdQQlFiR0NKTjFsUkxkN2dCQmxJTDFlYTA3d2JtZUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1NTQzODYyCWZpbGU6cGlwZWxpbmUtdGVtcGxhdGUuYXBwLnRhci5negpkZi95YzFiMmNKNnF6anJIL2ZJWk03a3BzNThzWW9GZk15aWZqdXEyUnhWRjJ1N1Z6LzNmSFM3aEhSMVBqTSs4bDhYUHUvTzBNTGdVbHdTcUs2Q3NCQT09Cg==",
+      "url": "https://github.com/KaykyDeSouzaDias/tauri-update-test/releases/download/v2.1.2/tauri-update-test.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVk1MZS9VYXNBcjgxdnZkUkZkR0QrZTZCajV0bytURG0yMFdQMi9zWm5VRWliWHJSMGQyS3B4bUZ3eXNWSXlNUWdQQlFiR0NKTjFsUkxkN2dCQmxJTDFlYTA3d2JtZUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1NTQzODYyCWZpbGU6cGlwZWxpbmUtdGVtcGxhdGUuYXBwLnRhci5negpkZi95YzFiMmNKNnF6anJIL2ZJWk03a3BzNThzWW9GZk15aWZqdXEyUnhWRjJ1N1Z6LzNmSFM3aEhSMVBqTSs4bDhYUHUvTzBNTGdVbHdTcUs2Q3NCQT09Cg==",
+      "url": "https://github.com/KaykyDeSouzaDias/tauri-update-test/releases/download/v2.1.2/tauri-update-test.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVk1MZS9VYXNBcndJKzAwYXdJSWJJcEpiQW9YVlhmUWw2dDZpWlJHd0taa3k1UHNYSmZvL0NTV1VQRy9BTnNtZlZORGttaWs5Tkd0ZHFGZjB0VTlzNWxic01rM04ydkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1NTQzNTMyCWZpbGU6cGlwZWxpbmUtdGVtcGxhdGVfMi4wLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CmtjRnBXbmdYM2c3TmpGclpjeTBDZDlFY2wxVXdtamFMOW1hNUhRaDNxcVpxTGdGMVhGOGgyb3lSWVN5S3VPbHJIK0dmYjRBUEx5ZHZZMlMvU3ZuYUFBPT0K",
+      "url": "https://github.com/KaykyDeSouzaDias/tauri-update-test/releases/download/v2.1.2/tauri-update-test_2.1.2_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT0NSYTBJLzZYZ2FRdml5NW5zejR6eU02OHZROFlEbnAxcm1CSUtmcDlVUmo3RjlzeHU1Nkt6QUpNQUdGQnU5b1BDTWhnaEVlTWlRRG5QNUNsbmFPM2orVzJ2RFhFSndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2NjQ3Nzk5CWZpbGU6TG9jb3RhXzEuMS4yX3g2NF9lbi1VUy5tc2kuemlwCk9QTzZ4cFFoSFJTS3pkNHUxTGZqdXFOSVlVRTNuNERwbHRVZStmMCtYRHdTcFRtZ2ZMNmlsVzl2VHlWbUQ1TWhzb1RpNjBQU0RRVFhnSjBseHp6K0JnPT0K",
+      "url": "https://github.com/Rivka-Shaked/locota-installer/Locota.msi.zip"
+    }
+  }
+}

@@ -16,7 +16,7 @@
       "url": "https://github.com/KaykyDeSouzaDias/tauri-update-test/releases/download/v2.1.2/tauri-update-test_2.1.2_amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT0NSYTBJLzZYZ2FRdml5NW5zejR6eU02OHZROFlEbnAxcm1CSUtmcDlVUmo3RjlzeHU1Nkt6QUpNQUdGQnU5b1BDTWhnaEVlTWlRRG5QNUNsbmFPM2orVzJ2RFhFSndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2NjQ3Nzk5CWZpbGU6TG9jb3RhXzEuMS4yX3g2NF9lbi1VUy5tc2kuemlwCk9QTzZ4cFFoSFJTS3pkNHUxTGZqdXFOSVlVRTNuNERwbHRVZStmMCtYRHdTcFRtZ2ZMNmlsVzl2VHlWbUQ1TWhzb1RpNjBQU0RRVFhnSjBseHp6K0JnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT0NSYTBJLzZYZ1JzNG1jaW9SdVh2MWEzd1NrRVNkb0V6aTVweDcwN3VjUml1MjRkLyt1VWQrR3VTOEppQXI0Y1NOSCtnL3lpdkVRSHFCMUNPL09ZWHFzNWFNZXNYYkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2NjUyODg4CWZpbGU6TG9jb3RhXzEuMS4yX3g2NF9lbi1VUy5tc2kuemlwCndhSkFRd2l4T2k2OWRzYUlCY2g0SERLKzRjU3lqT0tPTjMzUVgvemdSZHhKdlJlWUUwVjBJWHFNa2pIaXV1YWtDOVZsL1h4am12c01VK0crWTB6N0J3PT0K",
       "url": "https://raw.githubusercontent.com/Rivka-Shaked/locota-installer/main/Locota.msi.zip"
     }
   }

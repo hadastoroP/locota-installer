@@ -1,0 +1,11 @@
+{
+	"version": "1.0.2",
+	"notes": "Version: 1.0.2",
+	"pub_date": "2023-06-18T12:06:24Z",
+	"platforms": {
+		"windows-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHRLWnQ1YjdPTGpuMXVUR1dwdGswUVdEeFZ3MHUrU0ExaTZXUkFjT3FEM29Cd0htMXpSamJBRmxyNGNXZDlSREhxUUROdmFKbUkyQ2lHcVFZV2FaZ0w2dXdiZmFmbXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg3MDg5NzI0CWZpbGU6TG9jb3RhQWdlbnRfMS4wLjJfeDY0X2VuLVVTLm1zaS56aXAKb0VXejRyMEpKTU5yN1YxSVlqMUE0Rno0SXRsMGhVZ2F2RHRmd1BEZGZwQjhHMVJmYVBLaVh4RSsxYTJyVktPblVDZHlDSFBHOVV2YUZpNkZ1WU1NQ1E9PQo=",
+			"url": "https://raw.githubusercontent.com/Rivka-Shaked/locota-installer/main/LocotaAgent.msi.zip"
+		}
+	}
+}
